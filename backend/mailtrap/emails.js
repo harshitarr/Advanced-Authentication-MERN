@@ -32,7 +32,7 @@ export const sendWelcomeEmail = async (email , name) => {
 
             from:sender,
             to:recipient,
-            template_uuid:'772f87fd-5b7c-4aea-9d1e-d48e32c4c363',
+            template_uuid:'afc5a072-287b-4fa3-b79a-f61cad9860c9',
             template_variables:{
                 company_info_name:'Lazzy Collections',
                 name:name,
