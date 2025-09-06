@@ -13,7 +13,6 @@ The system includes:
 - **Postman API Testing** for endpoints
 
 
-
 ## ✨ Features
 - User Signup with email & password  
 - 6-digit verification code for account activation  
@@ -49,11 +48,11 @@ cd Advanced-Authentication-MERN
 ```
 
 ### 2.Install Dependencies
-### Install backend dependencies
+#### Install backend dependencies
 ```bash
 npm install
 ```
-### Install frontend dependencies
+#### Install frontend dependencies
 ```bash
 cd frontend
 npm install
@@ -70,18 +69,18 @@ CLIENT_URL= http://localhost:5173
 ```
 
 ### 4.Run this App
-### Running backend
+#### Running backend
 ```bash
 npm run dev
 ```
 
-### Running Frontend
+#### Running Frontend
 
 ```bash
 cd frontend
 npm run dev
 ```
-*Note:Run both of them simultaneously in two termials*
+*Note : Run them simultaneously in two seperate termials*
 
 
 
