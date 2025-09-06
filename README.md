@@ -12,6 +12,8 @@ The system includes:
 - **Mailtrap Integration** for testing emails (welcome, verification, password reset)
 - **Postman API Testing** for endpoints
 
+## Demo Image
+![Demo image](https://github.com/harshitarr/Advanced-Authentication-MERN/blob/main/auth.png)
 
 ## ✨ Features
 - User Signup with email & password  
