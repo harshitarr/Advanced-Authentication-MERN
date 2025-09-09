@@ -16,7 +16,7 @@ The system includes:
 ![Demo image](https://github.com/harshitarr/Advanced-Authentication-MERN/blob/main/auth.png)
 
 ## Deployment 
-[Link](https://advanced-authentication-mern-534a.onrender.com/login)
+[Authentication](https://advanced-authentication-mern-534a.onrender.com/login)
 
 ## ✨ Features
 - User Signup with email & password  
@@ -69,7 +69,7 @@ CLIENT_URL= http://localhost:5173
 npm run build
 ```
 
-#### Running Frontend
+#### Running
 
 ```bash
 npm start
