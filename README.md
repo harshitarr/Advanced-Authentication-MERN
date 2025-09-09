@@ -15,6 +15,9 @@ The system includes:
 ## Demo Image
 ![Demo image](https://github.com/harshitarr/Advanced-Authentication-MERN/blob/main/auth.png)
 
+## Deployment 
+[Link](https://advanced-authentication-mern-534a.onrender.com/login)
+
 ## ✨ Features
 - User Signup with email & password  
 - 6-digit verification code for account activation  
@@ -49,17 +52,7 @@ git clone https://github.com/harshitarr/Advanced-Authentication-MERN.git
 cd Advanced-Authentication-MERN
 ```
 
-### 2.Install Dependencies
-#### Install backend dependencies
-```bash
-npm install
-```
-#### Install frontend dependencies
-```bash
-cd frontend
-npm install
-```
-### 3.Create a .env file in the core 
+### 2.Create a .env file in the core 
 ```bash
 MONGO_URI=your_mongo_uri
 PORT=5000
@@ -70,19 +63,18 @@ MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 CLIENT_URL= http://localhost:5173
 ```
 
-### 4.Run this App
-#### Running backend
+### 3.Run this App
+#### installing dependencies and dist
 ```bash
-npm run dev
+npm run build
 ```
 
 #### Running Frontend
 
 ```bash
-cd frontend
-npm run dev
+npm start
 ```
-*Note : Run them simultaneously in two seperate termials*
+
 
 
 
